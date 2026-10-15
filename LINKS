@@ -1,5 +1,5 @@
 [
-{
+    {
         "name": "Shell Shockers",
         "link": "https://shellshock.io/",
         "logo": "https://images.seeklogo.com/logo-png/61/1/shell-shockers-logo-png_seeklogo-615729.png"
@@ -53,5 +53,750 @@
         "name": "2048",
         "link": "https://play2048.co/",
         "logo": "https://www.google.com/s2/favicons?domain=play2048.co&sz=128"
+    },
+    {
+        "name": "Krunker.io",
+        "link": "https://krunker.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=krunker.io&sz=128"
+    },
+    {
+        "name": "Venge.io",
+        "link": "https://venge.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=venge.io&sz=128"
+    },
+    {
+        "name": "Bonk.io",
+        "link": "https://bonk.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=bonk.io&sz=128"
+    },
+    {
+        "name": "Voxiom.io",
+        "link": "https://voxiom.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=voxiom.io&sz=128"
+    },
+    {
+        "name": "Taming.io",
+        "link": "https://taming.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=taming.io&sz=128"
+    },
+    {
+        "name": "MooMoo.io",
+        "link": "https://moomoo.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=moomoo.io&sz=128"
+    },
+    {
+        "name": "ZombsRoyale.io",
+        "link": "https://zombsroyale.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=zombsroyale.io&sz=128"
+    },
+    {
+        "name": "BattleDudes.io",
+        "link": "https://battledudes.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=battledudes.io&sz=128"
+    },
+    {
+        "name": "Kirka.io",
+        "link": "https://kirka.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=kirka.io&sz=128"
+    },
+    {
+        "name": "Hordes.io",
+        "link": "https://hordes.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=hordes.io&sz=128"
+    },
+    {
+        "name": "Little Big Snake",
+        "link": "https://littlebigsnake.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=littlebigsnake.com&sz=128"
+    },
+    {
+        "name": "Wormate.io",
+        "link": "https://wormate.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=wormate.io&sz=128"
+    },
+    {
+        "name": "Wormax.io",
+        "link": "https://wormax.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=wormax.io&sz=128"
+    },
+    {
+        "name": "Worms Zone",
+        "link": "https://wormszone.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=wormszone.io&sz=128"
+    },
+    {
+        "name": "Gulper.io",
+        "link": "https://gulper.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=gulper.io&sz=128"
+    },
+    {
+        "name": "YoHoHo.io",
+        "link": "https://yohoho.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=yohoho.io&sz=128"
+    },
+    {
+        "name": "EvoWars.io",
+        "link": "https://evowars.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=evowars.io&sz=128"
+    },
+    {
+        "name": "Lordz.io",
+        "link": "https://lordz.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=lordz.io&sz=128"
+    },
+    {
+        "name": "Brutal.io",
+        "link": "https://brutal.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=brutal.io&sz=128"
+    },
+    {
+        "name": "Narwhale.io",
+        "link": "https://narwhale.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=narwhale.io&sz=128"
+    },
+    {
+        "name": "FlyOrDie.io",
+        "link": "https://flyordie.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=flyordie.io&sz=128"
+    },
+    {
+        "name": "Powerline.io",
+        "link": "https://powerline.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=powerline.io&sz=128"
+    },
+    {
+        "name": "Territorial.io",
+        "link": "https://territorial.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=territorial.io&sz=128"
+    },
+    {
+        "name": "Hexanaut.io",
+        "link": "https://hexanaut.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=hexanaut.io&sz=128"
+    },
+    {
+        "name": "Hexar.io",
+        "link": "https://hexar.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=hexar.io&sz=128"
+    },
+    {
+        "name": "Defly.io",
+        "link": "https://defly.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=defly.io&sz=128"
+    },
+    {
+        "name": "Splix.io",
+        "link": "https://splix.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=splix.io&sz=128"
+    },
+    {
+        "name": "Arras.io",
+        "link": "https://arras.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=arras.io&sz=128"
+    },
+    {
+        "name": "Mope.io",
+        "link": "https://mope.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=mope.io&sz=128"
+    },
+    {
+        "name": "Starve.io",
+        "link": "https://starve.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=starve.io&sz=128"
+    },
+    {
+        "name": "Devast.io",
+        "link": "https://devast.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=devast.io&sz=128"
+    },
+    {
+        "name": "Mitos.is",
+        "link": "https://mitos.is/",
+        "logo": "https://www.google.com/s2/favicons?domain=mitos.is&sz=128"
+    },
+    {
+        "name": "Wings.io",
+        "link": "https://wings.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=wings.io&sz=128"
+    },
+    {
+        "name": "Deeeep.io",
+        "link": "https://deeeep.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=deeeep.io&sz=128"
+    },
+    {
+        "name": "Paper.io 2",
+        "link": "https://poki.com/en/g/paper-io-2",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Repuls.io",
+        "link": "https://repuls.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=repuls.io&sz=128"
+    },
+    {
+        "name": "Mini Royale",
+        "link": "https://miniroyale.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=miniroyale.io&sz=128"
+    },
+    {
+        "name": "Rocket Bot Royale",
+        "link": "https://rocketbotroyale.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=rocketbotroyale.com&sz=128"
+    },
+    {
+        "name": "Tanki Online",
+        "link": "https://tankionline.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=tankionline.com&sz=128"
+    },
+    {
+        "name": "Bullet Force",
+        "link": "https://bulletforce.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=bulletforce.com&sz=128"
+    },
+    {
+        "name": "Skribbl.io",
+        "link": "https://skribbl.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=skribbl.io&sz=128"
+    },
+    {
+        "name": "Gartic Phone",
+        "link": "https://garticphone.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=garticphone.com&sz=128"
+    },
+    {
+        "name": "Gartic.io",
+        "link": "https://gartic.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=gartic.io&sz=128"
+    },
+    {
+        "name": "Codenames Online",
+        "link": "https://codenames.game/",
+        "logo": "https://www.google.com/s2/favicons?domain=codenames.game&sz=128"
+    },
+    {
+        "name": "GeoGuessr",
+        "link": "https://www.geoguessr.com/free",
+        "logo": "https://www.google.com/s2/favicons?domain=geoguessr.com&sz=128"
+    },
+    {
+        "name": "City Guesser",
+        "link": "https://virtualvacation.us/guess",
+        "logo": "https://www.google.com/s2/favicons?domain=virtualvacation.us&sz=128"
+    },
+    {
+        "name": "MapCrunch",
+        "link": "https://www.mapcrunch.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=mapcrunch.com&sz=128"
+    },
+    {
+        "name": "Chess.com",
+        "link": "https://www.chess.com/de/play",
+        "logo": "https://www.google.com/s2/favicons?domain=chess.com&sz=128"
+    },
+    {
+        "name": "Lichess",
+        "link": "https://lichess.org/",
+        "logo": "https://www.google.com/s2/favicons?domain=lichess.org&sz=128"
+    },
+    {
+        "name": "Jstris",
+        "link": "https://jstris.jezevec10.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jstris.jezevec10.com&sz=128"
+    },
+    {
+        "name": "TETR.IO",
+        "link": "https://tetr.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=tetr.io&sz=128"
+    },
+    {
+        "name": "Wordle",
+        "link": "https://www.nytimes.com/games/wordle/index.html",
+        "logo": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128"
+    },
+    {
+        "name": "Wordle Unlimited",
+        "link": "https://wordleunlimited.org/",
+        "logo": "https://www.google.com/s2/favicons?domain=wordleunlimited.org&sz=128"
+    },
+    {
+        "name": "Sudoku",
+        "link": "https://sudoku.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=sudoku.com&sz=128"
+    },
+    {
+        "name": "Minesweeper Online",
+        "link": "https://minesweeper.online/",
+        "logo": "https://www.google.com/s2/favicons?domain=minesweeper.online&sz=128"
+    },
+    {
+        "name": "Solitaire",
+        "link": "https://solitaired.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=solitaired.com&sz=128"
+    },
+    {
+        "name": "Mahjong",
+        "link": "https://www.mahjong.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=mahjong.com&sz=128"
+    },
+    {
+        "name": "Checkers",
+        "link": "https://cardgames.io/checkers/",
+        "logo": "https://www.google.com/s2/favicons?domain=cardgames.io&sz=128"
+    },
+    {
+        "name": "Backgammon",
+        "link": "https://cardgames.io/backgammon/",
+        "logo": "https://www.google.com/s2/favicons?domain=cardgames.io&sz=128"
+    },
+    {
+        "name": "Yahtzee",
+        "link": "https://cardgames.io/yahtzee/",
+        "logo": "https://www.google.com/s2/favicons?domain=cardgames.io&sz=128"
+    },
+    {
+        "name": "Four in a Row",
+        "link": "https://cardgames.io/fourinarow/",
+        "logo": "https://www.google.com/s2/favicons?domain=cardgames.io&sz=128"
+    },
+    {
+        "name": "Reversi",
+        "link": "https://cardgames.io/reversi/",
+        "logo": "https://www.google.com/s2/favicons?domain=cardgames.io&sz=128"
+    },
+    {
+        "name": "Sudoku Online",
+        "link": "https://www.websudoku.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=websudoku.com&sz=128"
+    },
+    {
+        "name": "PlayOK",
+        "link": "https://www.playok.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=playok.com&sz=128"
+    },
+    {
+        "name": "Little Alchemy",
+        "link": "https://littlealchemy.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=littlealchemy.com&sz=128"
+    },
+    {
+        "name": "Little Alchemy 2",
+        "link": "https://littlealchemy2.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=littlealchemy2.com&sz=128"
+    },
+    {
+        "name": "Infinite Craft",
+        "link": "https://neal.fun/infinite-craft/",
+        "logo": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128"
+    },
+    {
+        "name": "The Password Game",
+        "link": "https://neal.fun/password-game/",
+        "logo": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128"
+    },
+    {
+        "name": "Spend Bill Gates' Money",
+        "link": "https://neal.fun/spend/",
+        "logo": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128"
+    },
+    {
+        "name": "Draw a Perfect Circle",
+        "link": "https://neal.fun/perfect-circle/",
+        "logo": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128"
+    },
+    {
+        "name": "Stimulation Clicker",
+        "link": "https://neal.fun/stimulation-clicker/",
+        "logo": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128"
+    },
+    {
+        "name": "Universal Paperclips",
+        "link": "https://www.decisionproblem.com/paperclips/",
+        "logo": "https://www.google.com/s2/favicons?domain=decisionproblem.com&sz=128"
+    },
+    {
+        "name": "A Dark Room",
+        "link": "https://adarkroom.doublespeakgames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=doublespeakgames.com&sz=128"
+    },
+    {
+        "name": "Antimatter Dimensions",
+        "link": "https://ivark.github.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=ivark.github.io&sz=128"
+    },
+    {
+        "name": "Idle Breakout",
+        "link": "https://idle-breakout.github.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=idle-breakout.github.io&sz=128"
+    },
+    {
+        "name": "Trimps",
+        "link": "https://trimps.github.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=trimps.github.io&sz=128"
+    },
+    {
+        "name": "Minecraft Classic",
+        "link": "https://classic.minecraft.net/",
+        "logo": "https://www.google.com/s2/favicons?domain=minecraft.net&sz=128"
+    },
+    {
+        "name": "Chrome Dino",
+        "link": "https://chromedino.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=chromedino.com&sz=128"
+    },
+    {
+        "name": "Pac-Man",
+        "link": "https://www.crazygames.com/game/pacman",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Snake.io",
+        "link": "https://snake.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=snake.io&sz=128"
+    },
+    {
+        "name": "Google Feud",
+        "link": "https://googlefeud.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=googlefeud.com&sz=128"
+    },
+    {
+        "name": "Quick, Draw!",
+        "link": "https://quickdraw.withgoogle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=withgoogle.com&sz=128"
+    },
+    {
+        "name": "Akinator",
+        "link": "https://en.akinator.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=akinator.com&sz=128"
+    },
+    {
+        "name": "Line Rider",
+        "link": "https://www.linerider.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=linerider.com&sz=128"
+    },
+    {
+        "name": "QWOP",
+        "link": "https://www.foddy.net/Athletics.html",
+        "logo": "https://www.google.com/s2/favicons?domain=foddy.net&sz=128"
+    },
+    {
+        "name": "Happy Wheels",
+        "link": "https://totaljerkface.com/happy_wheels.tjf",
+        "logo": "https://www.google.com/s2/favicons?domain=totaljerkface.com&sz=128"
+    },
+    {
+        "name": "World's Hardest Game",
+        "link": "https://www.coolmathgames.com/0-worlds-hardest-game",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
+    },
+    {
+        "name": "8 Ball Pool",
+        "link": "https://www.miniclip.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=miniclip.com&sz=128"
+    },
+    {
+        "name": "Subway Surfers",
+        "link": "https://poki.com/en/g/subway-surfers",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Temple Run 2",
+        "link": "https://poki.com/en/g/temple-run-2",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Moto X3M",
+        "link": "https://poki.com/en/g/moto-x3m",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Moto X3M Winter",
+        "link": "https://poki.com/en/g/moto-x3m-4-winter",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Drive Mad",
+        "link": "https://poki.com/en/g/drive-mad",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Eggy Car",
+        "link": "https://poki.com/en/g/eggy-car",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Slope",
+        "link": "https://www.crazygames.com/game/slope",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Drift Boss",
+        "link": "https://www.crazygames.com/game/drift-boss",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Snow Rider 3D",
+        "link": "https://www.crazygames.com/game/snow-rider-3d",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Stickman Hook",
+        "link": "https://poki.com/en/g/stickman-hook",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Tiny Fishing",
+        "link": "https://poki.com/en/g/tiny-fishing",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Monkey Mart",
+        "link": "https://poki.com/en/g/monkey-mart",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Level Devil",
+        "link": "https://poki.com/en/g/level-devil",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Parkour Race",
+        "link": "https://poki.com/en/g/parkour-race",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Blumgi Slime",
+        "link": "https://poki.com/en/g/blumgi-slime",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Blumgi Ball",
+        "link": "https://poki.com/en/g/blumgi-ball",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Blumgi Rocket",
+        "link": "https://poki.com/en/g/blumgi-rocket",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Blumgi Soccer",
+        "link": "https://poki.com/en/g/blumgi-soccer",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Basket Random",
+        "link": "https://poki.com/en/g/basket-random",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Soccer Random",
+        "link": "https://poki.com/en/g/soccer-random",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Volley Random",
+        "link": "https://poki.com/en/g/volley-random",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Getaway Shootout",
+        "link": "https://poki.com/en/g/getaway-shootout",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Rooftop Snipers",
+        "link": "https://www.crazygames.com/game/rooftop-snipers",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Raft Wars Multiplayer",
+        "link": "https://poki.com/en/g/raft-wars-multiplayer",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Ragdoll Archers",
+        "link": "https://www.crazygames.com/game/ragdoll-archers",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "12 MiniBattles",
+        "link": "https://poki.com/en/g/12-minibattles",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Fireboy and Watergirl",
+        "link": "https://www.coolmathgames.com/0-fireboy-and-water-girl",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
+    },
+    {
+        "name": "Vex 7",
+        "link": "https://poki.com/en/g/vex-7",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Vex 8",
+        "link": "https://poki.com/en/g/vex-8",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Bob the Robber",
+        "link": "https://poki.com/en/g/bob-the-robber",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Geometry Dash",
+        "link": "https://www.crazygames.com/game/geometry-dash",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Bad Ice-Cream",
+        "link": "https://www.coolmathgames.com/0-bad-ice-cream",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
+    },
+    {
+        "name": "Papa's Pizzeria",
+        "link": "https://www.coolmathgames.com/0-papas-pizzeria",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
+    },
+    {
+        "name": "Papa's Freezeria",
+        "link": "https://www.coolmathgames.com/0-papas-freezeria",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
+    },
+    {
+        "name": "Crossy Road",
+        "link": "https://poki.com/en/g/crossy-road",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Hole.io",
+        "link": "https://poki.com/en/g/hole-io",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "BuildNow GG",
+        "link": "https://www.crazygames.com/game/buildnow-gg",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Drift Hunters",
+        "link": "https://www.crazygames.com/game/drift-hunters",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Traffic Tour",
+        "link": "https://www.crazygames.com/game/traffic-tour",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "PolyTrack",
+        "link": "https://www.crazygames.com/game/polytrack",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Drift.io",
+        "link": "https://www.crazygames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Stickman Climb",
+        "link": "https://poki.com/en/",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Penalty Shooters 2",
+        "link": "https://www.crazygames.com/game/penalty-shooters-2",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Football Legends",
+        "link": "https://www.crazygames.com/game/football-legends-2021",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Basketball Stars",
+        "link": "https://www.crazygames.com/game/basketball-stars",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Moto X3M Pool Party",
+        "link": "https://poki.com/en/g/moto-x3m-5-pool-party",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Moto X3M Spooky Land",
+        "link": "https://poki.com/en/g/moto-x3m-spooky-land",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Stickman Clans",
+        "link": "https://www.crazygames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Shell Shockers Alternative: Voxiom.io",
+        "link": "https://voxiom.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=voxiom.io&sz=128"
+    },
+    {
+        "name": "Sushi Party",
+        "link": "https://poki.com/en/g/sushi-party",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Snowball.io",
+        "link": "https://www.crazygames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Stumble Guys",
+        "link": "https://www.stumbleguys.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=stumbleguys.com&sz=128"
+    },
+    {
+        "name": "Among Us",
+        "link": "https://poki.com/en/g/among-us",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Fireboy and Watergirl 2",
+        "link": "https://www.coolmathgames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
+    },
+    {
+        "name": "Tic-Tac-Toe",
+        "link": "https://playtictactoe.org/",
+        "logo": "https://www.google.com/s2/favicons?domain=playtictactoe.org&sz=128"
+    },
+    {
+        "name": "Neal.fun",
+        "link": "https://neal.fun/",
+        "logo": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128"
+    },
+    {
+        "name": "CrazyGames",
+        "link": "https://www.crazygames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128"
+    },
+    {
+        "name": "Poki",
+        "link": "https://poki.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=poki.com&sz=128"
+    },
+    {
+        "name": "Y8 Games",
+        "link": "https://www.y8.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=y8.com&sz=128"
+    },
+    {
+        "name": "Miniclip",
+        "link": "https://www.miniclip.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=miniclip.com&sz=128"
+    },
+    {
+        "name": "Coolmath Games",
+        "link": "https://www.coolmathgames.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=coolmathgames.com&sz=128"
     }
 ]
