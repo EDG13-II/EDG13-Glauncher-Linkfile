@@ -1,0 +1,57 @@
+[
+{
+        "name": "Shell Shockers",
+        "link": "https://shellshock.io/",
+        "logo": "https://images.seeklogo.com/logo-png/61/1/shell-shockers-logo-png_seeklogo-615729.png"
+    },
+    {
+        "name": "Combat Reloaded",
+        "link": "https://nadgames.com/games/Combat_Reloaded_v4/",
+        "logo": "https://browsergamers.gg/cdn/images/banners/combat-reloaded-game-cover.webp?fit=crop&format=png&height=630&q=100&w=1200"
+    },
+    {
+        "name": "Agar.io",
+        "link": "https://agar.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=agar.io&sz=128"
+    },
+    {
+        "name": "Slither.io",
+        "link": "https://slither.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=slither.io&sz=128"
+    },
+    {
+        "name": "Diep.io",
+        "link": "https://diep.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=diep.io&sz=128"
+    },
+    {
+        "name": "1v1.LOL",
+        "link": "https://1v1.lol/",
+        "logo": "https://www.google.com/s2/favicons?domain=1v1.lol&sz=128"
+    },
+    {
+        "name": "Smash Karts",
+        "link": "https://smashkarts.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=smashkarts.io&sz=128"
+    },
+    {
+        "name": "Bloxd.io",
+        "link": "https://bloxd.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=bloxd.io&sz=128"
+    },
+    {
+        "name": "Tetris",
+        "link": "https://play.tetris.com/games/",
+        "logo": "https://www.google.com/s2/favicons?domain=play.tetris.com&sz=128"
+    },
+    {
+        "name": "Cookie Clicker",
+        "link": "https://orteil.dashnet.org/cookieclicker/",
+        "logo": "https://www.google.com/s2/favicons?domain=orteil.dashnet.org&sz=128"
+    },
+    {
+        "name": "2048",
+        "link": "https://play2048.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=play2048.co&sz=128"
+    }
+]
